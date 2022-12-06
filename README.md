@@ -15,7 +15,7 @@ using Netwide Assmbler project(NASM).
     	$ gcc -m32 filename.o
     	$ ./a.out
 
-    C] To delete .o files use follow command
+    C] To delete .o files
 
       Syntax :
     	rm *.o
